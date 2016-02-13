@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails raceday: test" uuid="63220a5b-7b75-4b3f-bd00-6ab75c1a3aa2" />
+    <data-source name="Rails raceday: development" uuid="5004ef44-4035-4ff7-8783-7ac044eee398">
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
